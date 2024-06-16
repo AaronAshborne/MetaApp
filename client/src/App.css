@@ -1,0 +1,33 @@
+/* App.css */
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.loading {
+  font-size: 20px;
+  color: #007bff; /* Loading text color */
+}
+
+.error {
+  font-size: 20px;
+  color: #dc3545; /* Error text color */
+}
+
+.error-details {
+  color: #6c757d; /* Additional details color */
+}
+
+.meta-data {
+  margin-top: 20px;
+}
+
+.meta-data p {
+  margin-bottom: 10px;
+}
+
+.meta-data a {
+  color: #007bff; /* Link color */
+}

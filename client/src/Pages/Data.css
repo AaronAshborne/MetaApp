@@ -1,0 +1,77 @@
+/* Data.css */
+
+.disbody {
+    font-family: 'Arial', sans-serif;
+    background-color: whitesmoke;
+    color: #1c1e21;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .distinctive-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .distinctive-title {
+    font-size: 2rem;
+    color: #4caf50;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .distinctive-loading, .distinctive-no-data {
+    font-size: 1.25rem;
+    color: #606770;
+  }
+  
+  .distinctive-error {
+    background-color: #ffe6e6;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 20px;
+  }
+  
+  .distinctive-error-message {
+    color: #ff0000;
+    font-weight: bold;
+  }
+  
+  .distinctive-error-details {
+    color: #606770;
+    font-size: 0.875rem;
+  }
+  
+  .distinctive-meta-data {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .distinctive-meta-data p {
+    font-size: 1.25rem;
+    margin: 10px 0;
+  }
+  
+  .distinctive-label {
+    font-weight: bold;
+    color: #4caf50;
+  }
+  
+  .distinctive-link {
+    color: #1877f2;
+    text-decoration: none;
+  }
+  
+  .distinctive-link:hover {
+    text-decoration: underline;
+  }
+  
