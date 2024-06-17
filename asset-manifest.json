@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MetaApp/static/css/main.4ddc33ff.css",
-    "main.js": "/MetaApp/static/js/main.9d35ac1a.js",
-    "static/js/453.c14542e9.chunk.js": "/MetaApp/static/js/453.c14542e9.chunk.js",
+    "main.css": "/MetaApp/static/css/main.49ad1986.css",
+    "main.js": "/MetaApp/static/js/main.fabf620b.js",
+    "static/js/534.f399a8b8.chunk.js": "/MetaApp/static/js/534.f399a8b8.chunk.js",
     "static/media/a simple logo with white background of infinity shape in green theme.png": "/MetaApp/static/media/a simple logo with white background of infinity shape in green theme.b646847a301924671474.png",
     "index.html": "/MetaApp/index.html",
-    "main.4ddc33ff.css.map": "/MetaApp/static/css/main.4ddc33ff.css.map",
-    "main.9d35ac1a.js.map": "/MetaApp/static/js/main.9d35ac1a.js.map",
-    "453.c14542e9.chunk.js.map": "/MetaApp/static/js/453.c14542e9.chunk.js.map"
+    "main.49ad1986.css.map": "/MetaApp/static/css/main.49ad1986.css.map",
+    "main.fabf620b.js.map": "/MetaApp/static/js/main.fabf620b.js.map",
+    "534.f399a8b8.chunk.js.map": "/MetaApp/static/js/534.f399a8b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ddc33ff.css",
-    "static/js/main.9d35ac1a.js"
+    "static/css/main.49ad1986.css",
+    "static/js/main.fabf620b.js"
   ]
 }
