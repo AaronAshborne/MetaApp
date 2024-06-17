@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/MetaApp/static/css/main.49ad1986.css",
-    "main.js": "/MetaApp/static/js/main.fabf620b.js",
+    "main.js": "/MetaApp/static/js/main.f7e1b70a.js",
     "static/js/534.f399a8b8.chunk.js": "/MetaApp/static/js/534.f399a8b8.chunk.js",
     "static/media/a simple logo with white background of infinity shape in green theme.png": "/MetaApp/static/media/a simple logo with white background of infinity shape in green theme.b646847a301924671474.png",
     "index.html": "/MetaApp/index.html",
     "main.49ad1986.css.map": "/MetaApp/static/css/main.49ad1986.css.map",
-    "main.fabf620b.js.map": "/MetaApp/static/js/main.fabf620b.js.map",
+    "main.f7e1b70a.js.map": "/MetaApp/static/js/main.f7e1b70a.js.map",
     "534.f399a8b8.chunk.js.map": "/MetaApp/static/js/534.f399a8b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49ad1986.css",
-    "static/js/main.fabf620b.js"
+    "static/js/main.f7e1b70a.js"
   ]
 }
