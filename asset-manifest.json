@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ddc33ff.css",
+    "main.js": "/static/js/main.7fa0e4d4.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/a simple logo with white background of infinity shape in green theme.png": "/static/media/a simple logo with white background of infinity shape in green theme.b646847a301924671474.png",
+    "index.html": "/index.html",
+    "main.4ddc33ff.css.map": "/static/css/main.4ddc33ff.css.map",
+    "main.7fa0e4d4.js.map": "/static/js/main.7fa0e4d4.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ddc33ff.css",
+    "static/js/main.7fa0e4d4.js"
+  ]
+}
