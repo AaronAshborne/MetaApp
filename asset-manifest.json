@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AaronAshborne/MetaApp/static/css/main.4ddc33ff.css",
-    "main.js": "/AaronAshborne/MetaApp/static/js/main.c40ef3e4.js",
-    "static/js/453.c14542e9.chunk.js": "/AaronAshborne/MetaApp/static/js/453.c14542e9.chunk.js",
-    "static/media/a simple logo with white background of infinity shape in green theme.png": "/AaronAshborne/MetaApp/static/media/a simple logo with white background of infinity shape in green theme.b646847a301924671474.png",
-    "index.html": "/AaronAshborne/MetaApp/index.html",
-    "main.4ddc33ff.css.map": "/AaronAshborne/MetaApp/static/css/main.4ddc33ff.css.map",
-    "main.c40ef3e4.js.map": "/AaronAshborne/MetaApp/static/js/main.c40ef3e4.js.map",
-    "453.c14542e9.chunk.js.map": "/AaronAshborne/MetaApp/static/js/453.c14542e9.chunk.js.map"
+    "main.css": "/MetaApp/static/css/main.4ddc33ff.css",
+    "main.js": "/MetaApp/static/js/main.9d35ac1a.js",
+    "static/js/453.c14542e9.chunk.js": "/MetaApp/static/js/453.c14542e9.chunk.js",
+    "static/media/a simple logo with white background of infinity shape in green theme.png": "/MetaApp/static/media/a simple logo with white background of infinity shape in green theme.b646847a301924671474.png",
+    "index.html": "/MetaApp/index.html",
+    "main.4ddc33ff.css.map": "/MetaApp/static/css/main.4ddc33ff.css.map",
+    "main.9d35ac1a.js.map": "/MetaApp/static/js/main.9d35ac1a.js.map",
+    "453.c14542e9.chunk.js.map": "/MetaApp/static/js/453.c14542e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ddc33ff.css",
-    "static/js/main.c40ef3e4.js"
+    "static/js/main.9d35ac1a.js"
   ]
 }
