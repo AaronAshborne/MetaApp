@@ -4,18 +4,42 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: whitesmoke;
+    background-color: white;
+}
+
+/* Form and image container styles */
+.form-image-container {
+    display: flex;
+    background-color: white;
+    overflow: hidden;
+}
+
+/* Image container styles */
+.image-container {
+    flex: 1;
+    background-color: white; /* Optional: a background color for the image section */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container img {
+    max-width: 60%;
+    height: auto;
+    object-fit: cover;
 }
 
 /* Form container styles */
 .form-container {
-    background-color: #fff;
+    
+    margin-right: 100px;
+    flex: 1;
     padding: 20px 30px;
-    border-radius: 10px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     width: 100%;
     max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 /* Form heading styles */
@@ -28,6 +52,7 @@
 .input-group {
     margin-bottom: 15px;
     text-align: left;
+    margin-right: 20px;
 }
 
 .input-group label {
@@ -37,7 +62,7 @@
 }
 
 .input-group input {
-    width: 380px;
+    width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -74,3 +99,10 @@
 .toggle-btn:hover {
     color: #388e3c;
 }
+
+/* Message styles */
+.message {
+    color: red;
+    margin-top: 15px;
+}
+

@@ -1,0 +1,53 @@
+/* Container styles */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Animation container */
+.animation-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Animation styles for divs */
+.animate-from-left,
+.animate-from-right {
+    position: relative;
+    font-size: 36px;
+    padding: 20px;
+    white-space: nowrap;
+}
+
+/* Animation for div coming from the left */
+.animate-from-left {
+    animation: slideFromLeft 0.70s ease-out forwards;
+}
+
+/* Animation for div coming from the right */
+.animate-from-right {
+    animation: slideFromRight 0.70s ease-out forwards;
+}
+
+/* Keyframes for slide from left animation */
+@keyframes slideFromLeft {
+    0% {
+        transform: translateX(-600%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+/* Keyframes for slide from right animation */
+@keyframes slideFromRight {
+    0% {
+        transform: translateX(600%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
